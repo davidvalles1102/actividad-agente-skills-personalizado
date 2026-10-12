@@ -1,5 +1,9 @@
 # Sistema Agéntico con Skills Propias
 
+**Autor:** David Valles
+
+**Repositorio:** https://github.com/davidvalles1102/actividad-agente-skills-personalizado
+
 Refactorización y personalización de un agente conversacional simple en
 Python, separando **lógica**, **configuración** y **comportamiento**, e
 incorporando **skills propias** reutilizables entre varios agentes
