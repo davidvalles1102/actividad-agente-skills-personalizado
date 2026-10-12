@@ -1,0 +1,8 @@
+# Este proyecto funciona completo usando solo la libreria estandar de
+# Python (json, ast, importlib, argparse, pathlib, unittest, etc.).
+#
+# Instala uno de estos paquetes UNICAMENTE si vas a usar un proveedor de
+# LLM real (ver core/llm_provider.py y .env.example):
+#
+#   pip install anthropic   # para llm_provider = "anthropic"
+#   pip install openai      # para llm_provider = "openai"
